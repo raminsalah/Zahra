@@ -3,7 +3,9 @@ from django.db import models
 class ZahraBiShoor:
     pass
 
-class ZahraAblah:
+class ZahraKhole:
+    pass
+class Zahramohandes:
     pass
 
 
